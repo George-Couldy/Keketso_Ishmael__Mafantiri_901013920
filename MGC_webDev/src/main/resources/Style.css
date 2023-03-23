@@ -1,0 +1,50 @@
+#btn{
+    -fx-background-color:gold;
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+    -fx-opacity:0.8;
+    -fx-cursor: hand;
+}
+#btn:hover{
+    -fx-opacity:1;
+    -fx-transition:0.8s;
+}
+#header{
+    -fx-font-size:30px;
+    -fx-background-color:null;
+    -fx-text-fill:red;
+    -fx-font-family:Impact;
+    -fx-font-wight:bold;
+    -fx-text-align:center;
+    -fx-alignment:center;
+}
+#colors{
+    -fx-background-color:gold;
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+    -fx-cursor: hand;
+}
+#labels{
+    -fx-background-color:white;
+    -fx-font-weight:bold;
+    -fx-text-fill:black;
+    -fx-opacity:0.8;
+    -fx-font-family:Impact;
+}
+#menubr{
+    -fx-background-color:black;
+}
+#addedbtn{
+    -fx-background-color:gold;
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+    -fx-cursor: hand;
+}
+#addedbtn:hover{
+     -fx-background-color:gold;
+     -fx-font-weight:bold;
+     -fx-text-fill:white;
+     -fx-opacity:0.8;
+     -fx-cursor: hand;
+     -fx-border: solid;
+ }
